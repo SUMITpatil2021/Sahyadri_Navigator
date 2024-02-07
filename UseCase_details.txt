@@ -29,7 +29,7 @@ Receive and Respond to Emails
 Pay-Back System for Cancellation(optional)
 
 Admin Functions
-Actors: Admin
+Admin
 Use Cases:
 Manage Accounts
 Monitor Transactions
