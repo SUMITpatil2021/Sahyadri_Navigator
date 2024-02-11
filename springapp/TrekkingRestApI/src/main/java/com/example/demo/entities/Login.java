@@ -17,13 +17,14 @@ import lombok.Setter;
 public class Login {
 		@Id
 		@GeneratedValue(strategy = GenerationType.IDENTITY)
-		int ID;
-		
 		int LOGIN_ID;
+//		int ID;
 		
+		
+		@Column
 	    String username;
-		
+		@Column
 	    String password;
-	    
+		@Column
 	    int ROLL_ID;
 }
